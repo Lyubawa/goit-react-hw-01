@@ -1,0 +1,17 @@
+.title {
+    font-size: 20px;
+    font-weight: 500;
+    padding-top: 10px;
+}
+
+.container {
+    color: black;
+}
+
+.isOnline {
+    color: green;
+}
+
+.isOffline {
+    color: red;
+}

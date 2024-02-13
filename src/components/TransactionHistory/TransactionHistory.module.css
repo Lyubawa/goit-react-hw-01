@@ -1,0 +1,16 @@
+.container {
+    margin: 0 auto;
+    border-top: 1px solid #8E8F99;
+    border-left: 1px solid #8E8F99;
+    border-right: 1px solid #8E8F99;
+}
+
+.list {
+    border-bottom: 1px solid #8E8F99;
+    background-color: #8E8F99;
+    color: white;
+}
+
+.item {
+    border-bottom: 1px solid #8E8F99;
+}
